@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: hr.code.test
+---
+testFramework: junit
+sourceLanguage: java
