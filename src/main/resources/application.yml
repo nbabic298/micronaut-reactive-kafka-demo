@@ -1,3 +1,7 @@
 micronaut:
     application:
-        name: micronaut-reactive-kafka-demo-1
+        name: micronaut-reactive-kafka-demo
+
+kafka:
+    bootstrap:
+        servers: localhost:9092
